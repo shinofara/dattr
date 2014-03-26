@@ -1,0 +1,25 @@
+{
+  "name": "dattr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony ./node_modules/karma/bin/karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinofara/travis_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shinofara/travis_node/issues"
+  },
+  "homepage": "https://github.com/shinofara/travis_node",
+  "dependencies": {
+    "karma": "~0.12.1"
+  },
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  }
+}
